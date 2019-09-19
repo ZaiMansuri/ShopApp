@@ -1,4 +1,4 @@
-## Frotend Server for ShopApp
+## Frotend for ShopApp
 E-commorce web app for Beginners frontend using Reactjs, Bootstrap, mdbReact.
 
 * This is User panel for ShopApp
